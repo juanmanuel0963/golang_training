@@ -3,6 +3,6 @@ package hello
 import "rsc.io/quote"
 
 func Hello() string {
-	//return "Hello, world.."
+	//returns "Hello, world.."
 	return quote.Hello()
 }

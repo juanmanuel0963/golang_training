@@ -12,3 +12,5 @@ func main() {
 // ---- OR ----
 // go build
 //./05_same-package
+//<JMD/>
+//go run same.go main.go

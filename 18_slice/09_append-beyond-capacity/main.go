@@ -15,6 +15,7 @@ func main() {
 	greeting = append(greeting, "Zǎo'ān")
 	greeting = append(greeting, "Ohayou gozaimasu")
 	greeting = append(greeting, "gidday")
+	greeting = append(greeting, "gidday1")
 
 	fmt.Println(greeting[6])
 	fmt.Println(len(greeting))

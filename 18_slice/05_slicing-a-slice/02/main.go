@@ -7,7 +7,7 @@ func main() {
 	greeting := []string{
 		"Good morning!",
 		"Bonjour!",
-		"dias!",
+		"Buenos días!",
 		"Bongiorno!",
 		"Ohayo!",
 		"Selamat pagi!",

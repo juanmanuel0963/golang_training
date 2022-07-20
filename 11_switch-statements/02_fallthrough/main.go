@@ -13,9 +13,10 @@ func main() {
 		fallthrough
 	case "Medhi":
 		fmt.Println("Wassup Medhi")
-		fallthrough
+		//fallthrough
 	case "Julian":
 		fmt.Println("Wassup Julian")
+		//fallthrough
 	case "Sushant":
 		fmt.Println("Wassup Sushant")
 	}

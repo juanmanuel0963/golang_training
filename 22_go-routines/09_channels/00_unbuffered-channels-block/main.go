@@ -11,6 +11,7 @@ func main() {
 	go func() {
 		for i := 0; i < 10; i++ {
 			c <- i
+			fmt.Println("hi")
 		}
 	}()
 
